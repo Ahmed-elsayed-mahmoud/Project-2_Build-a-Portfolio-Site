@@ -1,6 +1,6 @@
 body {
-  margin: 36px 0px 20px 0px;
-  font-family: 'Roboto', sans-serif;
+  margin: 36px 0 20px 0;
+  font-family: "Roboto", sans-serif;
   color: #2d3c49;
 }
 
@@ -45,7 +45,7 @@ section {
 }
 
 .header-det {
-  margin: auto 0px auto 0px;
+  margin: auto 0;
 }
 
 .header-logo {
@@ -54,17 +54,17 @@ section {
 
 .seperator-line {
   background-color: #7d97ad;
-  margin: 16px 0px 16px 0px;
+  margin: 16px 0;
   width: 100%;
   height: 4px;
 }
 
-.center-img {
+.gallery {
   height: 480px;
-  margin: 16px 0px 36px 0px;
+  margin: 16px 0 36px 0;
 }
 
-.center-img > img {
+.gallery-img{
   width: 100%;
   height: 100%;
   object-fit: cover;
